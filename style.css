@@ -1,6 +1,6 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
+      background: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
       background-size: cover;
       color: white;
     }
